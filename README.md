@@ -2,7 +2,7 @@
 An application to connect electric car owners with nearby charging stations, at home or on the go.
 
 ## Depolyed Page
-Visit Recharge [here](https://markkimeyer.github.io/RechargeCarApp/)
+Visit Recharge [here](https://ahfotis.github.io/RechargeCarApp/)
 
 ## Reference Image
 Show's the page's basic functionality.
