@@ -76,6 +76,10 @@ h2 {
     height: 25%;
 }
 
+#mapColumn {
+   display: inline;
+}
+
 #mapBox {
     margin-top: 50px;
     margin-right: 25px;
@@ -95,6 +99,7 @@ h2 {
     border: solid 5px rgb(54, 51, 233);
     padding-left: 2%;
     opacity: 50;
+    display: block;
 }
 
 .directBtn {
@@ -115,16 +120,6 @@ h2 {
 
     .welcomeHeader {
         margin: 0px;
-    }
-
-    #mapInputBox {
-        width: 250px;
-        margin-top: 25px;
-        margin-right: 50px;
-        margin-left: 25px;
-        background-color: transparent;
-        padding: 5px;
-        
     }
    
    #userSubmit {
@@ -155,4 +150,26 @@ h2 {
        width: 100px;
    }
 
+}
+
+@media screen and (max-width: 552px) {
+
+    #newSearch, #userSubmit {
+        display: block;
+    } 
+}
+@media screen and (max-width: 400px) {
+
+
+    #mapBox {
+       float: right;
+     }
+
+     #mapInputBox, #postalZipInput, #countryInput {
+         width: 150px;
+     }
+
+    #newSearch, #userSubmit {
+        display: block;
+    } 
 }
