@@ -7,6 +7,7 @@ Visit Recharge [here](https://ahfotis.github.io/RechargeCarApp/)
 ## Reference Image
 Show's the page's basic functionality.
 ![homepage](HTML-Assets/assets/pictures/referenceImage.png)
+![in action](HTML-Assets/assets/pictures/recharge.gif)
 
 ## Functionality
 ### Description
@@ -35,10 +36,10 @@ Languages
 * HTML5, JavaScript, jQuery, CSS, AJAX
 
 ## Collaborators
-* Anna Fotis - Team Manager, Back End Development.
-* Markki Meyer - Back End Development
-* Brandon Norrgard - Front End Development
-* Noah Schlag - Front End Development
+* Anna Fotis - Team Manager, Back End Development - annahickey2@gmail.com
+* Markki Meyer - Back End Development - markkimeyer@gmail.com
+* Brandon Norrgard - Front End Development - brandon.n.norrgard@gmail.com
+* Noah Schlag - Front End Development - noahschlag12@gmail.com
  
  ## License
  MIT License
